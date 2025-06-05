@@ -42,7 +42,7 @@ From crunching data to crafting beautiful UIs — I love it all!
       <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/><br/>React<br/><br/>
       <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/><br/>Node.js<br/><br/>
       <img src="https://img.icons8.com/ios/50/000000/express-js.png" alt="Express.js"/><br/>Express.js<br/><br/>
-      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-pandas-a-software-library-written-for-the-python-programming-language-logo-color-tal-revivo.png" alt="Pandas"/><br/>Pandas
+      <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas"/><br/>Pandas
     </td>
     <td align="center">
       <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/><br/>MongoDB<br/><br/>
