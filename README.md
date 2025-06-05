@@ -1,4 +1,4 @@
-![Banner](bg2.jpg)
+![Banner](Linkdln_profile_Banner.png)
 
 <div align="center">
 
